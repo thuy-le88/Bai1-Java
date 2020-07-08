@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class giaiPtBacNhat {
+public class GiaiPtBacNhat {
     public static void main(String[] args) {
         double a;
         double b;
